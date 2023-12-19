@@ -1,0 +1,16 @@
+{
+  "name": "torclient",
+  "version": "1.0.0",
+  "description": "bitTorrent lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^4.0.0",
+    "bencode-js": "^0.0.8",
+    "bencode.js": "^1.0.0"
+  }
+}
